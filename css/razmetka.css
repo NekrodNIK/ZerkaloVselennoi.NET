@@ -1,0 +1,16 @@
+body { 
+	background-image: url('background.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+}
+#zag {
+	text-align:center;
+}
+#onas {
+
+	text-align:center;
+}
+a {
+	color:#FFD700;
+}
